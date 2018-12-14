@@ -1,0 +1,19 @@
+{
+  "name": "travis_deployment_test",
+  "version": "1.0.0",
+  "description": "An other project need to be deployed after a traivs-success, this is just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NucsuM/travis_deployment_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NucsuM/travis_deployment_test/issues"
+  },
+  "homepage": "https://github.com/NucsuM/travis_deployment_test#readme"
+}
