@@ -4,7 +4,7 @@
   "description": "An other project need to be deployed after a traivs-success, this is just a test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
